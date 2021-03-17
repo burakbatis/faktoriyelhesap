@@ -1,0 +1,2 @@
+# faktoriyelhesap
+faktoriyelhesaplama
